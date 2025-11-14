@@ -46,7 +46,7 @@ uv (pip install uv)
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/your-repo/BTP-MultiAgent.git
+git clone https://github.com/muhammedehab35/BTP-MultiAgent.git
 cd BTP-MultiAgent
 
 # 2. Install A2AServer
@@ -274,8 +274,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Authors
 
+- **BTP Multi-Agent System**: [muhammedehab35](https://github.com/muhammedehab35)
 - **Original A2A-MCP Framework**: [johnson7788](https://github.com/johnson7788/A2AServer)
-- **BTP Adaptation**: Construction Management Team
 
 ## 🙏 Acknowledgments
 
@@ -285,9 +285,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 🐛 [Report Issues](https://github.com/your-repo/issues)
-- 💬 [Discussions](https://github.com/your-repo/discussions)
-- 📧 Email: support@your-domain.com
+- 🐛 [Report Issues](https://github.com/muhammedehab35/BTP-MultiAgent/issues)
+- 💬 [Discussions](https://github.com/muhammedehab35/BTP-MultiAgent/discussions)
 
 ---
 
