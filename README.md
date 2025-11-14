@@ -281,12 +281,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Google A2A Project](https://github.com/google/A2A)
 - [Model Context Protocol](https://modelcontextprotocol.io/)
 - [FastMCP](https://github.com/jlowin/fastmcp)
-
-## 📞 Support
-
-- 🐛 [Report Issues](https://github.com/muhammedehab35/BTP-MultiAgent/issues)
-- 💬 [Discussions](https://github.com/muhammedehab35/BTP-MultiAgent/discussions)
-
 ---
 
 **Built with ❤️ to revolutionize construction project management**
