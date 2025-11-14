@@ -275,7 +275,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Authors
 
 - **BTP Multi-Agent System**: [muhammedehab35](https://github.com/muhammedehab35)
-- **Original A2A-MCP Framework**: [johnson7788](https://github.com/johnson7788/A2AServer)
 
 ## 🙏 Acknowledgments
 
