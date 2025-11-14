@@ -46,7 +46,7 @@ uv (pip install uv)
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/muhammedehab35/BTP-MultiAgent.git
+git clone https://github.com/muhammedehab35/BTP-Multi-Agent-Construction-Management-System.git
 cd BTP-MultiAgent
 
 # 2. Install A2AServer
