@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "PlanningTools": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "fastmcp",
+        "fastmcp",
+        "run",
+        "mcpserver/planning_tools.py"
+      ]
+    }
+  }
+}

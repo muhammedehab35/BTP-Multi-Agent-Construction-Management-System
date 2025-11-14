@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "ArchitectureTools": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "fastmcp",
+        "fastmcp",
+        "run",
+        "mcpserver/architecture_tools.py"
+      ]
+    }
+  }
+}

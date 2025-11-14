@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "CostEstimationTools": {
+      "command": "uv",
+      "args": [
+        "run",
+        "--with",
+        "fastmcp",
+        "fastmcp",
+        "run",
+        "mcpserver/cost_estimation_tools.py"
+      ]
+    }
+  }
+}
